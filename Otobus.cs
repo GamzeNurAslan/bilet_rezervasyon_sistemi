@@ -2,7 +2,6 @@ namespace ConsoleApp9
 {
     public class Otobus
     {
-        public string Plaka { get; set; }
         public Koltuk[] Koltuklar { get; set; }
 
         public Otobus(int koltukSayisi)
