@@ -1,4 +1,4 @@
-![https://github.com/GamzeNurAslan/bilet_rezervasyon_sistemi/blob/main/video/Form1-2025-06-12-18-10-29.gif](assets/demo.gif)
+![Bilet_rezervasyon_sistemi](https://github.com/GamzeNurAslan/bilet_rezervasyon_sistemi/blob/main/video/Form1-2025-06-12-18-10-29.gif)
 
 # 🚌 GiBiletix - Otobüs Bilet Rezervasyon Sistemi
 
