@@ -138,7 +138,7 @@ namespace GiBiletix
 
                 if (secilenIl != "")
                 {
-                    MessageBox.Show("Şehir içi seferler için lütfen önce 'Elazığ' ilini seçin.", "Uyarı");
+                    MessageBox.Show("Şehir içi seferler için lütfen önce 'Gaziantep' ilini seçin.", "Uyarı");
                     checkBoxSehirIci.Checked = false; 
                     return;
                 }
