@@ -7,7 +7,7 @@ Kullanıcılar, şehir içi veya şehirlerarası seferler için bilet oluşturab
 
 ---
 
-## 🚀 Özellikler
+## 🌼 Özellikler
 
 - 🔄 Şehir içi / şehir dışı sefer ayrımı  
 - 📅 Sefer oluşturma (nereden, nereye, tarih)  
